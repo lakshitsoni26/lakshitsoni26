@@ -7,7 +7,7 @@
 
 <div align="center">
     <a href="https://linkedin.com/in/lakshit-soni26"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://lakshit-soni.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-f5c2e7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://lakshit-soni.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-f5e0dc?style=for-the-badge&logo=react&logoColor=27A0D9" alt="Portfolio"/></a>
     <a href="https://x.com/Lakshit_sonii"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
     <a href="mailto:lakshitsoni26@gmail.com"><img src="https://img.shields.io/badge/-Email-cba6f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
@@ -16,42 +16,42 @@
     <a href="https://user-badge.committers.top/india/lakshitsoni26"><img src="https://user-badge.committers.top/india/lakshitsoni26.svg"></a>
 </div>
 
-## 👻 A little about me... 
+<br>
 
-I am a **Full-Stack & Software Engineer** with a special bias towards creativity and innovation. My actions are always aimed at achieving high results and quality fulfillment of tasks. In life I am guided by self-development, I never stand still.
+### ℹ️ About Me 
+|🏢 I'm an **Engineer** focused on **MERN Stack**, **Java** & **Backend Systems**.|
+| :--- |
+|💬 Ask me about my experience with **Node.js**, **React**, **Java**, **SQL** or **DSA**.|
+|⚡ I am passionate about building scalable backends and creative UI/UX environments.|
+|👨💻 I’m currently working on my [Course Selling App](https://github.com/lakshitsoni26/backend-course-selling) and [MediChain](https://github.com/ssid18/MediChain).|
 
-- 🔭 I’m currently working on [Backend for course selling app](https://github.com/lakshitsoni26/backend-course-selling)
-- 🌱 I’m currently learning **DSA with Java**
-- 👯 I’m looking to collaborate on [Medichain](https://github.com/ssid18/MediChain)
-- 👨‍💻 All of my projects are available at [https://github.com/lakshitsoni26](https://github.com/lakshitsoni26)
+<br>
 
-Currently I am engaged in the development of open-source projects and specialized in creating websites, applications, and backend systems.
+### 🎯 &nbsp;My Skills
+| 💻 Languages & Frameworks |
+| :--- |
+| <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,js,py,cpp,mysql,aws,docker,html,css" />|
+| 🛠️ Tools |
+| <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,github,git,postman,figma,ps,linux,windows,powershell,stackoverflow,gcp,replit,notion,graphql&perline=12" />|
 
-```javascript
-const LakshitSoni = {
-    OS: ["macOS", "Linux"],
-    languages: {
-        highLevel: ["Java", "JavaScript", "SQL"],
-        averageLevel: ["Python", "C++"],
-        baseLevel: ["Rust", "TypeScript", "Bash"]
-    },
-    programming: {
-        backend: ["Node.js", "Express.js", "Django", "FastAPI"],
-        frontend: ["React.js", "HTML5", "CSS3", "SCSS"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "SQLite"],
-        devOps: ["Docker", "AWS", "Nginx"],
-        tools: ["Git", "Postman", "Figma", "Photoshop"]
-    },
-};
+<br>
+
+## My Lifecycle
+<img src="https://camo.githubusercontent.com/46e07d18952cb11f43772797b5e4d39ccd8f15a674bba8f7d9e85576bc52513d/68747470733a2f2f7777772e636f64656465782e696f2f696d616765732f636f64656465782d626f742d6c6f676f2d636f6d707265737365642e676966" width="250" height="250" align="right"/>
+
+```kotlin
+fun main() {
+    while (Alive) {
+        code()
+        fixBugs()
+        learningDSA()
+        sleep()
+        repeat()
+    }
+}
 ```
 
-## ☕ Support Me
-If you would like to support my journey as an engineer, feel free to connect or buy me a coffee!
-
-| CryptoCurrencies | Address                                        |
-| ------------ | -------------------------------------------------- |
-| **Ethereum** | `0xPlaceYourMetaMaskAddressHere`                   |
-| **Bitcoin**  | `1PlaceYourBitcoinAddressHere`                     |
+<br>
 
 <details open>
 <summary><h3>🐍 Contribution Snake | 🐢</h3></summary>
@@ -60,15 +60,26 @@ If you would like to support my journey as an engineer, feel free to connect or 
 </div>
 </details>
 
-<details open>
-<summary><h3>📊 Statistics | 📈</h3></summary>
-    <img alt="Lakshit's profile Trophy's" src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=5&theme=nord&margin-w=15&margin-h=15&no-bg=true"/>
-    <img alt="Lakshit's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lakshitsoni26&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-	<div align="center">
-	    <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg"/>
-	    <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/stats.svg"/>
-	</div>
+<br>
+
+## 🎖️ My Statistics:
+<h3>Coding Time:</h3>
+<img src="https://encept-github-status.vercel.app/api/wakatime?username=lakshitsoni26&theme=transparent" alt="Lakshit's WakaTime stats" />
+
+<details open><summary>Show All Statistics</summary>
+ 	<h3>Top Languages:</h3>
+	<img src="https://encept-github-status.vercel.app/api/top-langs?username=lakshitsoni26&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="lakshitsoni26" />
+	<br><br>
+ 	<h3>Github Stats:</h3>
+	<a href="https://github.com/lakshitsoni26">
+	    <img alt="lakshitsoni26's Github Stats" src="https://encept-github-status.vercel.app/api?username=lakshitsoni26&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+	</a>
+	<br><br>
+ 	<h3>My Streak:</h3>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitsoni26&theme=transparent" alt="lakshitsoni26" />
 </details>
+
+<br>
 
 <div align="center">
 <br/>
