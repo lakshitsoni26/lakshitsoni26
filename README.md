@@ -87,10 +87,10 @@ fun main() {
 
 <div align="center">
   <a href="https://github.com/lakshitsoni26/github-stats">
-    <img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Lakshit's GitHub Stats" width="48%" />
+    <img align="top" src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Lakshit's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/lakshitsoni26/github-stats">
-    <img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Lakshit's Top Languages" width="48%" />
+    <img align="top" src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Lakshit's Top Languages" width="48%" />
   </a>
 </div>
 <br>
