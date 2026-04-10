@@ -62,9 +62,11 @@ fun main() {
 
 <br>
 
+<!--
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
 <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/wakatime.svg" alt="Lakshit's WakaTime stats" />
+-->
 
 <details open><summary>Show All Statistics</summary>
  	<h3>Top Languages:</h3>
