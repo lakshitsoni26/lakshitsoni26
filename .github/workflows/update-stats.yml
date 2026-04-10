@@ -3,7 +3,10 @@ name: Update README cards
 on:
   push:
     branches:
+      - main
       - feature/profile-enhancement
+      - feature/premium-readme
+      - feature/snake-game
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
