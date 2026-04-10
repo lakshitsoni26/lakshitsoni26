@@ -85,16 +85,16 @@ fun main() {
 <img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dark" alt="Lakshit's GitHub Trophies" />
 -->
 
-<h3>GitHub Stats:</h3>
-<a href="https://github.com/lakshitsoni26/github-stats">
-<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Lakshit's GitHub Stats" />
-</a>
+<div align="center">
+  <a href="https://github.com/lakshitsoni26/github-stats">
+    <img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Lakshit's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/lakshitsoni26/github-stats">
+    <img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Lakshit's Top Languages" width="48%" />
+  </a>
+</div>
+<br>
 
-<h3>Top Languages:</h3>
-<a href="https://github.com/lakshitsoni26/github-stats">
-<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Lakshit's Top Languages" />
-</a>
-<br><br>
 <h3>My Streak:</h3>
 <img src="https://streak-stats.demolab.com/?user=lakshitsoni26&theme=transparent&hide_border=true" alt="lakshitsoni26" />
 
