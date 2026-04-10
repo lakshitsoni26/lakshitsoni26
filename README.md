@@ -65,8 +65,8 @@ fun main() {
 <!--
 <details open>
   <summary><b>📊 My Coding Activity</b></summary>
-  <!-- START_SECTION:waka -->
-  <!-- END_SECTION:waka -->
+  START_SECTION:waka
+  END_SECTION:waka
 </details>
 -->
 
@@ -80,7 +80,7 @@ fun main() {
 
 <details open><summary>Show All Statistics</summary>
  	<h3>GitHub Trophies:</h3>
- 	<img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Lakshit's GitHub Trophies" />
+ 	<img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dark" alt="Lakshit's GitHub Trophies" />
 
  	<h3>Top Languages:</h3>
 	<img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="lakshitsoni26" />
