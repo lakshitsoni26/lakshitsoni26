@@ -79,19 +79,21 @@ fun main() {
 -->
 
 <details open><summary>Show All Statistics</summary>
- 	<h3>GitHub Trophies:</h3>
- 	<img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dark" alt="Lakshit's GitHub Trophies" />
 
- 	<h3>Top Languages:</h3>
-	<img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="lakshitsoni26" />
-	<br><br>
- 	<h3>Github Stats:</h3>
-	<a href="https://github.com/lakshitsoni26">
-	    <img alt="lakshitsoni26's Github Stats" src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/stats.svg" height="230px"/>
-	</a>
-	<br><br>
- 	<h3>My Streak:</h3>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitsoni26&theme=transparent" alt="lakshitsoni26" />
+<h3>GitHub Trophies:</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dark" alt="Lakshit's GitHub Trophies" />
+
+<h3>Top Languages:</h3>
+<img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="lakshitsoni26" />
+<br><br>
+<h3>Github Stats:</h3>
+<a href="https://github.com/lakshitsoni26">
+<img alt="lakshitsoni26's Github Stats" src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/stats.svg" height="230px"/>
+</a>
+<br><br>
+<h3>My Streak:</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitsoni26&theme=transparent" alt="lakshitsoni26" />
+
 </details>
 
 <br>
