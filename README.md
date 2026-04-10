@@ -102,5 +102,5 @@ fun main() {
 
 <div align="center">
 <br/>
-<img height="20px" src="https://visitcount.itsvg.in/api?id=lakshitsoni26&label=Profile%20Views&color=12&icon=5&pretty=true" />
+<img src="https://komarev.com/ghpvc/?username=lakshitsoni26&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
