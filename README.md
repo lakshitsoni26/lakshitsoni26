@@ -88,13 +88,11 @@ fun main() {
 <h3>GitHub Stats:</h3>
 <a href="https://github.com/lakshitsoni26/github-stats">
 <img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Lakshit's GitHub Stats" />
-<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="Lakshit's GitHub Stats" />
 </a>
 
 <h3>Top Languages:</h3>
 <a href="https://github.com/lakshitsoni26/github-stats">
 <img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Lakshit's Top Languages" />
-<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Lakshit's Top Languages" />
 </a>
 <br><br>
 <h3>My Streak:</h3>
