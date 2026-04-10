@@ -37,9 +37,9 @@
           <strong>Status:</strong> <span style="color: #00ff00;">Coding...</span>
         </p>
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=lakshitsoni26&show_icons=true&theme=react&bg_color=0D1117&title_color=00ffff&text_color=c9d1d9&icon_color=ff00ff&hide_border=true" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/stats.svg" alt="Github Stats" />
         <br />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitsoni26&theme=react&bg_color=0D1117&hide_border=true" alt="Streak Stats" />
+        <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="Top Langs" />
       </div>
     </td>
     <td width="50%" valign="top">
@@ -58,7 +58,7 @@
         </p>
         <br />
         <!-- Top Langs -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshitsoni26&layout=compact&theme=react&bg_color=0D1117&title_color=ff00ff&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
+        <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/trophies.svg" width="100%" alt="Achievements" />
       </div>
     </td>
   </tr>
@@ -73,15 +73,12 @@
     <tr>
       <td>
         <a href="#">
-             <img src="./assets/glass_card.png" width="300" height="auto" alt="Project 1 Background">
-             <!-- Note: Overlaying text on images in Markdown is hard/impossible without generating the image with text. 
-                  So we just use the glass card as a placeholder or 'background' visual for now. 
-                  Ideally, users generate project-specific cards. -->
+             <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/pinned-1.svg" width="300" height="auto" alt="Project 1">
         </a>
       </td>
        <td>
         <a href="#">
-             <img src="./assets/glass_card.png" width="300" height="auto" alt="Project 2 Background">
+             <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/pinned-2.svg" width="300" height="auto" alt="Project 2">
         </a>
       </td>
     </tr>
