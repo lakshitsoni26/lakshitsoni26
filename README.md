@@ -63,27 +63,46 @@ fun main() {
 <br>
 
 <!--
+<details open>
+  <summary><b>📊 My Coding Activity</b></summary>
+  START_SECTION:waka
+  END_SECTION:waka
+</details>
+-->
+
+<br>
+
+<!--
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
 <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/wakatime.svg" alt="Lakshit's WakaTime stats" />
 -->
 
 <details open><summary>Show All Statistics</summary>
- 	<h3>Top Languages:</h3>
-	<img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="lakshitsoni26" />
-	<br><br>
- 	<h3>Github Stats:</h3>
-	<a href="https://github.com/lakshitsoni26">
-	    <img alt="lakshitsoni26's Github Stats" src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/stats.svg" height="230px"/>
-	</a>
-	<br><br>
- 	<h3>My Streak:</h3>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitsoni26&theme=transparent" alt="lakshitsoni26" />
+
+<!-- GitHub Trophies (commented out — service is currently down, uncomment when github-profile-trophy.vercel.app is back online)
+<h3>GitHub Trophies:</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dark" alt="Lakshit's GitHub Trophies" />
+-->
+
+<h3>GitHub Stats:</h3>
+<a href="https://github.com/lakshitsoni26/github-stats">
+<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Lakshit's GitHub Stats" />
+</a>
+
+<h3>Top Languages:</h3>
+<a href="https://github.com/lakshitsoni26/github-stats">
+<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Lakshit's Top Languages" />
+</a>
+<br><br>
+<h3>My Streak:</h3>
+<img src="https://streak-stats.demolab.com/?user=lakshitsoni26&theme=transparent&hide_border=true" alt="lakshitsoni26" />
+
 </details>
 
 <br>
 
 <div align="center">
 <br/>
-<img height="20px" src="https://visitcount.itsvg.in/api?id=lakshitsoni26&label=Profile%20Views&color=12&icon=5&pretty=true" />
+<img src="https://komarev.com/ghpvc/?username=lakshitsoni26&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
