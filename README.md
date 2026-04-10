@@ -85,12 +85,16 @@ fun main() {
 <img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dark" alt="Lakshit's GitHub Trophies" />
 -->
 
+<h3>GitHub Stats:</h3>
+<a href="https://github.com/lakshitsoni26/github-stats">
+<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="Lakshit's GitHub Stats" />
+<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="Lakshit's GitHub Stats" />
+</a>
+
 <h3>Top Languages:</h3>
-<img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="lakshitsoni26" />
-<br><br>
-<h3>Github Stats:</h3>
-<a href="https://github.com/lakshitsoni26">
-<img alt="lakshitsoni26's Github Stats" src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/stats.svg" height="230px"/>
+<a href="https://github.com/lakshitsoni26/github-stats">
+<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Lakshit's Top Languages" />
+<img src="https://raw.githubusercontent.com/lakshitsoni26/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Lakshit's Top Languages" />
 </a>
 <br><br>
 <h3>My Streak:</h3>
