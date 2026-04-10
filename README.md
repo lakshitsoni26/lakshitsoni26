@@ -107,4 +107,8 @@ fun main() {
 <div align="center">
 <br/>
 <img src="https://komarev.com/ghpvc/?username=lakshitsoni26&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<br/><br/>
+<a href="https://www.buymeacoffee.com/lakshitsoni">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+</a>
 </div>
