@@ -62,6 +62,14 @@ fun main() {
 
 <br>
 
+<details open>
+  <summary><b>📊 My Coding Activity</b></summary>
+  <!-- START_SECTION:waka -->
+  <!-- END_SECTION:waka -->
+</details>
+
+<br>
+
 <!--
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
