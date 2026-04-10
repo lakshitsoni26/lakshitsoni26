@@ -80,8 +80,10 @@ fun main() {
 
 <details open><summary>Show All Statistics</summary>
 
+<!-- GitHub Trophies (commented out — service is currently down, uncomment when github-profile-trophy.vercel.app is back online)
 <h3>GitHub Trophies:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dark" alt="Lakshit's GitHub Trophies" />
+-->
 
 <h3>Top Languages:</h3>
 <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="lakshitsoni26" />
@@ -92,7 +94,7 @@ fun main() {
 </a>
 <br><br>
 <h3>My Streak:</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitsoni26&theme=transparent" alt="lakshitsoni26" />
+<img src="https://streak-stats.demolab.com/?user=lakshitsoni26&theme=transparent&hide_border=true" alt="lakshitsoni26" />
 
 </details>
 
