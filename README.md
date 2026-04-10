@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="500" src="./assets/banner.png"/>    
+    <img width="500" src="./assets/main.gif"/>    
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Lakshit+Soni!" alt="Typing SVG" /></a>
@@ -44,20 +44,6 @@ const LakshitSoni = {
     },
 };
 ```
-
-## 🏢 My Organizations (Clickable)
-
-<div align="center">
-<table>
-<tr>
-<td><a href="https://github.com/lakshitsoni26"><img src="./assets/banner.png" width="330" height="180"/></a></td>
-<td><a href="https://github.com/lakshitsoni26"><img src="./assets/banner.png" width="330" height="180"/></a></td>
-</tr>
-</table>
-</div>
-
-> [!TIP]
-> Use the sidebar to explore my specialized repositories and open-source contributions.
 
 ## ☕ Support Me
 If you would like to support my journey as an engineer, feel free to connect or buy me a coffee!
