@@ -12,24 +12,24 @@
 </div>
 
 
+<br/>
 
-<br>
+### 🛡️ About Me
+- 🔭 **Current Focus:** Building scalable **MERN Stack** applications and mastering **Java Backend** architecture.
+- ⚡ **Superpowers:** Advanced problem-solving through **DSA** and crafting sleek **UI/UX** experiences.
+- 👨‍💻 **Working On:** Currently refining [Course Selling App](https://github.com/lakshitsoni26/backend-course-selling) and [MediChain](https://github.com/ssid18/MediChain).
+- 🤝 **Collaboration:** Looking for innovative **Backend** or **Full Stack** engineering roles.
+- 🧩 **Connect:** Reach out via [LinkedIn](https://linkedin.com/in/lakshit-soni26) or explore my [Personal Portfolio](https://lakshit-soni.vercel.app).
 
-### ℹ️ About Me 
-|🏢 I'm an **Engineer** focused on **MERN Stack**, **Java** & **Backend Systems**.|
-| :--- |
-|💬 Ask me about my experience with **Node.js**, **React**, **Java**, **SQL** or **DSA**.|
-|⚡ I am passionate about building scalable backends and creative UI/UX environments.|
-|👨💻 I’m currently working on my [Course Selling App](https://github.com/lakshitsoni26/backend-course-selling) and [MediChain](https://github.com/ssid18/MediChain).|
 
-<br>
+<br/>
 
-### 🎯 &nbsp;My Skills
-| 💻 Languages & Frameworks |
-| :--- |
-| <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,js,py,cpp,mysql,aws,docker,html,css" />|
-| 🛠️ Tools |
-| <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,github,git,postman,figma,ps,linux,windows,powershell,stackoverflow,gcp,replit,notion,graphql&perline=12" />|
+<div align="center">
+  <h3>🎯 My Skills</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,js,py,cpp,mysql,aws,docker,html,css" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,github,git,postman,figma,ps,linux,windows,powershell,stackoverflow,gcp,replit,notion,graphql&perline=12" />
+</div>
 
 <br>
 
