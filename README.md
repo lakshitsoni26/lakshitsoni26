@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Greetings,%20wanderer!%20I'm%20Lakshit%20Soni&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="./assets/main.gif" width="300" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Greetings,%20wanderer!%20I'm%20Lakshit%20Soni&fontSize=35&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
