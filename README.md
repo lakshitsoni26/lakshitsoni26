@@ -64,15 +64,15 @@ fun main() {
 
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
-<img src="https://encept-github-status.vercel.app/api/wakatime?username=lakshitsoni26&theme=transparent" alt="Lakshit's WakaTime stats" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lakshitsoni26&theme=transparent&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true" alt="Lakshit's WakaTime stats" />
 
 <details open><summary>Show All Statistics</summary>
  	<h3>Top Languages:</h3>
-	<img src="https://encept-github-status.vercel.app/api/top-langs?username=lakshitsoni26&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut" alt="lakshitsoni26" />
+	<img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="lakshitsoni26" />
 	<br><br>
  	<h3>Github Stats:</h3>
 	<a href="https://github.com/lakshitsoni26">
-	    <img alt="lakshitsoni26's Github Stats" src="https://encept-github-status.vercel.app/api?username=lakshitsoni26&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+	    <img alt="lakshitsoni26's Github Stats" src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/stats.svg" height="230px"/>
 	</a>
 	<br><br>
  	<h3>My Streak:</h3>
