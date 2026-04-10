@@ -62,9 +62,11 @@ fun main() {
 
 <br>
 
+<!--
 ## 🎖️ My Statistics:
 <h3>Coding Time:</h3>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lakshitsoni26&theme=transparent&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true" alt="Lakshit's WakaTime stats" />
+<img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/wakatime.svg" alt="Lakshit's WakaTime stats" />
+-->
 
 <details open><summary>Show All Statistics</summary>
  	<h3>Top Languages:</h3>
