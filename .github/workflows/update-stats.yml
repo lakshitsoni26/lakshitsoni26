@@ -31,7 +31,7 @@ jobs:
           card: stats
           options: 'username=lakshitsoni26&show_icons=true&theme=tokyonight&count_private=true'
           path: profile-stats/stats.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
       # Generate Top Languages Card
       - name: Generate top languages card
@@ -41,29 +41,9 @@ jobs:
           card: top-langs
           options: 'username=lakshitsoni26&layout=compact&theme=tokyonight'
           path: profile-stats/top-langs.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      # Generate Pinned Project 1
-      - name: Generate pinned repo 1
-        uses: soulteary/github-readme-stats-action@v1.0.0
-        continue-on-error: true
-        with:
-          card: pin
-          options: 'username=lakshitsoni26&repo=architects-nexus&theme=tokyonight'
-          path: profile-stats/pinned-1.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      # Generate Pinned Project 2
-      - name: Generate pinned repo 2
-        uses: soulteary/github-readme-stats-action@v1.0.0
-        continue-on-error: true
-        with:
-          card: pin
-          options: 'username=lakshitsoni26&repo=coastal-mani&theme=tokyonight'
-          path: profile-stats/pinned-2.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-      # Generate Trophies (Optional and Resilient)
+      # Generate Trophies
       - name: Generate trophies
         uses: lowlighter/metrics@latest
         continue-on-error: true
@@ -75,8 +55,17 @@ jobs:
           plugin_achievements_threshold: B
           plugin_achievements_display: compact
 
+      # Generate WakaTime Stats (Absolute Stability Mirror)
+      - name: Generate wakatime stats
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        continue-on-error: true
+        with:
+          card: wakatime
+          options: 'username=lakshitsoni26&theme=tokyonight&layout=compact'
+          path: profile-stats/wakatime.svg
+          token: ${{ secrets.WAKATIME_API_KEY || secrets.WAKATIME || secrets.GITHUB_TOKEN }}
+
       # Commit and push to a DEDICATED branch (Absolute Stability)
-      # This mimics the Snake game's working logic.
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
