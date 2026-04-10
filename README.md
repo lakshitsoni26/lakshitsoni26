@@ -1,8 +1,7 @@
 <div align="center">
-    <img width="500" src="./assets/main.gif"/>    
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Lakshit+Soni!" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=220&section=header&text=Lakshit%20Soni&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Veni+Vidi+Vici+⚔️;MERN+Stack+Developer+🚀;Java+%26+Backend+Engineer+⚙️;DSA+Problem+Solver+🧠" />
 </div>
 
 <div align="center">
@@ -12,9 +11,7 @@
     <a href="mailto:lakshitsoni26@gmail.com"><img src="https://img.shields.io/badge/-Email-cba6f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<div align="center">
-    <a href="https://user-badge.committers.top/india/lakshitsoni26"><img src="https://user-badge.committers.top/india/lakshitsoni26.svg"></a>
-</div>
+
 
 <br>
 
