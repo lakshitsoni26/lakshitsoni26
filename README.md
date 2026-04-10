@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="./assets/main.gif" width="300" />
+  <img src="./assets/main.gif" width="200" />
+  <br/>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=220&section=header&text=Lakshit%20Soni&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
