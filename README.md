@@ -79,6 +79,9 @@ fun main() {
 -->
 
 <details open><summary>Show All Statistics</summary>
+ 	<h3>GitHub Trophies:</h3>
+ 	<img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&column=-1&theme=dracula&no-bg=true&no-frame=true&margin-w=15" alt="Lakshit's GitHub Trophies" />
+
  	<h3>Top Languages:</h3>
 	<img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="lakshitsoni26" />
 	<br><br>
