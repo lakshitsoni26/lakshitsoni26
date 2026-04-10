@@ -95,8 +95,10 @@ fun main() {
 </div>
 <br>
 
-<h3>My Streak:</h3>
-<img src="https://streak-stats.demolab.com/?user=lakshitsoni26&theme=transparent&hide_border=true" alt="lakshitsoni26" />
+<div align="center">
+  <h3>My Streak:</h3>
+  <img src="https://streak-stats.demolab.com/?user=lakshitsoni26&theme=transparent&hide_border=true" alt="lakshitsoni26" />
+</div>
 
 </details>
 
