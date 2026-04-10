@@ -1,0 +1,83 @@
+name: Update README cards
+
+on:
+  push:
+    branches:
+      - feature/profile-enhancement
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      # Ensure the profile-stats directory exists
+      - name: Create directory
+        run: mkdir -p profile-stats
+
+      # Generate GitHub Stats Card
+      - name: Generate stats card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        continue-on-error: true
+        with:
+          card: stats
+          options: 'username=lakshitsoni26&show_icons=true&theme=tokyonight&count_private=true'
+          path: profile-stats/stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      # Generate Top Languages Card
+      - name: Generate top languages card
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: 'username=lakshitsoni26&layout=compact&theme=tokyonight'
+          path: profile-stats/top-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      # Generate Pinned Project 1
+      - name: Generate pinned repo 1
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: 'username=lakshitsoni26&repo=architects-nexus&theme=tokyonight'
+          path: profile-stats/pinned-1.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      # Generate Pinned Project 2
+      - name: Generate pinned repo 2
+        uses: soulteary/github-readme-stats-action@v1.0.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: 'username=lakshitsoni26&repo=coastal-mani&theme=tokyonight'
+          path: profile-stats/pinned-2.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      # Generate Trophies (Optional and Resilient)
+      - name: Generate trophies
+        uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          filename: profile-stats/trophies.svg
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_display: compact
+
+      # Commit and push to a DEDICATED branch (Absolute Stability)
+      # This mimics the Snake game's working logic.
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./profile-stats
+          publish_branch: metrics-render
+          commit_message: "Update profile metrics [skip ci]"

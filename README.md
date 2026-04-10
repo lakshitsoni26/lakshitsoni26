@@ -1,130 +1,22 @@
-<div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Cyber Dashboard Banner" />
-</div>
+<h1 align="center">Hi 👋, I'm Lakshit soni</h1>
+<h3 align="center">Full-Stack Developer | MERN • Java • SQL & NoSQL</h3>
 
-<div align="center">
-  <img src="./assets/typing.svg" width="400" alt="Hello World Typing Animation" />
-</div>
+- 🔭 I’m currently working on [Backend for course selling app](https://github.com/lakshitsoni26/backend-course-selling)
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=0D111700&center=true&vCenter=true&width=435&lines=Initialising+system...;Loading+user+profile...;>+Welcome+to+Lakshit's+World;_;" alt="Typing Animation" />
-</div>
-<div align="center">
-  <h2 style="color: #00ffff; text-shadow: 0 0 10px #00ffff;">SYSTEM STATUS: ONLINE</h2>
-  <p style="font-family: 'Courier New', monospace; color: #ff00ff; font-size: 18px; letter-spacing: 3px;">
-    "Veni, Vidi, Vici"
-  </p>
-</div>
+- 🌱 I’m currently learning **DSA with Java**
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lakshitsoni26&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
-</div>
+- 👯 I’m looking to collaborate on [Medichain](https://github.com/ssid18/MediChain)
 
-<!-- Main Dashboard Layout Table -->
-<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <!-- Profile / About Me Section Styled as a Card -->
-        <h3 style="color: #ff00ff; text-shadow: 0 0 5px #ff00ff;">> USER_PROFILE</h3>
-        <br />
-        <p align="left" style="font-family: monospace;">
-          <strong>ID:</strong> Lakshit Soni<br>
-          <strong>Role:</strong> Full Stack Architect<br>
-          <strong>Mission:</strong> Building the future of web.<br>
-          <strong>Status:</strong> <span style="color: #00ff00;">Coding...</span>
-        </p>
-        <br />
-        <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/stats.svg" alt="Github Stats" />
-        <br />
-        <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/top-langs.svg" alt="Top Langs" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <!-- Tech Stack / Skills Section -->
-        <h3 style="color: #00ffff; text-shadow: 0 0 5px #00ffff;">> TECH_STACK_MATRIX</h3>
-        <br />
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-          <br>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-        </p>
-        <br />
-        <!-- Top Langs -->
-        <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/trophies.svg" width="100%" alt="Achievements" />
-      </div>
-    </td>
-  </tr>
-</table>
+- 👨‍💻 All of my projects are available at [https://github.com/lakshitsoni26](https://github.com/lakshitsoni26)
 
-<div align="center">
-  <!-- Pinned Projects with 'Holographic' feel if possible via arrangement -->
-  <h3 style="color: #00ffff; letter-spacing: 2px;">DEPLOYMENTS</h3>
-  <br />
-  <!-- Using a table table for 'Glass Cards' layout -->
-   <table border="0">
-    <tr>
-      <td>
-        <a href="#">
-             <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/pinned-1.svg" width="300" height="auto" alt="Project 1">
-        </a>
-      </td>
-       <td>
-        <a href="#">
-             <img src="https://raw.githubusercontent.com/lakshitsoni26/lakshitsoni26/metrics-render/pinned-2.svg" width="300" height="auto" alt="Project 2">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+- 📫 How to reach me **lakshitsoni26@gmail.com**
 
-<div align="center">
-  <!-- Socials floating pills -->
-  <br />
-  <a href="https://lakshit-soni.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lakshit-soni26/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/Lakshit_sonii">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <br />
-  <a href="#">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bento-000000?style=for-the-badge&logo=bento&logoColor=white" alt="Bento"/>
-  </a>
-  <br />
-  <br />
-  <small style="color: gray;">System architecture v2.0 // Maintainer: lakshitsoni26</small>
-  <br />
-  <br />
-  <p style="font-size: 16px; color: #c9d1d9;">
-    if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-  </p>
-  <a href="https://buymeacoffee.com/lakshitsoni">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="180" />
-  </a>
-  <br />
-  <br />
-  <!-- Metrics: Activity Graph & Radar -->
-  <div align="center">
-    <img src="https://github.com/lakshitsoni26/lakshitsoni26/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-  </div>
-  <br />
-  <br />
-  <h3 align="left">🚧 my todoist stats:</h3>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lakshit-soni26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshit-soni26" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshitsoni26&show_icons=true&locale=en&layout=compact" alt="lakshitsoni26" /></p>
