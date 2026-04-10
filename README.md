@@ -11,9 +11,7 @@
     <a href="mailto:lakshitsoni26@gmail.com"><img src="https://img.shields.io/badge/-Email-cba6f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-<div align="center">
-    <a href="https://user-badge.committers.top/india/lakshitsoni26"><img src="https://user-badge.committers.top/india/lakshitsoni26.svg"></a>
-</div>
+
 
 <br>
 
