@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./assets/main.gif" width="300" />
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=220&section=header&text=Lakshit%20Soni&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Veni+Vidi+Vici+⚔️;MERN+Stack+Developer+🚀;Java+%26+Backend+Engineer+⚙️;DSA+Problem+Solver+🧠" />
@@ -10,16 +12,6 @@
     <a href="https://x.com/Lakshit_sonii"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
     <a href="mailto:lakshitsoni26@gmail.com"><img src="https://img.shields.io/badge/-Email-cba6f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
-
-
-<br/>
-
-### 🛡️ About Me
-- 🔭 **Current Focus:** Building scalable **MERN Stack** applications and mastering **Java Backend** architecture.
-- ⚡ **Superpowers:** Advanced problem-solving through **DSA** and crafting sleek **UI/UX** experiences.
-- 👨‍💻 **Working On:** Currently refining [Course Selling App](https://github.com/lakshitsoni26/backend-course-selling) and [MediChain](https://github.com/ssid18/MediChain).
-- 🤝 **Collaboration:** Looking for innovative **Backend** or **Full Stack** engineering roles.
-- 🧩 **Connect:** Reach out via [LinkedIn](https://linkedin.com/in/lakshit-soni26) or explore my [Personal Portfolio](https://lakshit-soni.vercel.app).
 
 
 <br/>
