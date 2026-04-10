@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=220&section=header&text=Lakshit%20Soni&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Jack+of+All+Trades+👾;MERN+Stack+Developer+🚀;Java+%26+Backend+Engineer+⚙️;DSA+Problem+Solver+🧠" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Veni+Vidi+Vici+⚔️;MERN+Stack+Developer+🚀;Java+%26+Backend+Engineer+⚙️;DSA+Problem+Solver+🧠" />
 </div>
 
 <div align="center">
