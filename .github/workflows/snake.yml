@@ -9,6 +9,7 @@ on:
       - main
       - master
       - feature/profile-enhancement
+      - feature/snake-game
 
 jobs:
   build:
