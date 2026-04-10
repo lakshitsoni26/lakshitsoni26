@@ -1,8 +1,5 @@
 <div align="center">
-    <img width="500" src="./assets/main.gif"/>    
-    <br/>
-    <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+Lakshit+Soni!" alt="Typing SVG" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Greetings,%20wanderer!%20I'm%20Lakshit%20Soni&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%" />
 </div>
 
 <div align="center">
