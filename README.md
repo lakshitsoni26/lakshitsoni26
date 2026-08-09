@@ -15,7 +15,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-lakshit--soni.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshit-soni.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lakshit--soni.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://lakshitsoni.in/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lakshitsoni26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lakshitsoni26)
 [![Twitter](https://img.shields.io/badge/Twitter-Lakshit__sonii-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Lakshit_sonii)
 
